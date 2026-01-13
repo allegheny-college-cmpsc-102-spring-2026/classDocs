@@ -1,6 +1,6 @@
 # CMPSC 102: Discrete Structures
 
-**Spring 2025**  
+**Spring 2026**  
 **Allegheny College**  
 **Department of Computer and Information Science**  
 
