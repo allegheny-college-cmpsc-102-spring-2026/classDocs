@@ -5,3 +5,4 @@ lessons/*
 
 # Do not ignore specific files
 !lessons/week01
+!lessons/week02
