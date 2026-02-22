@@ -4,4 +4,4 @@ lessons/*
 **/.DS_Store
 
 # Do not ignore specific files
-!lessons/week0[1-5]/
+!lessons/week0[1-7]/
