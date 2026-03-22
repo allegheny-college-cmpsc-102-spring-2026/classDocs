@@ -5,4 +5,4 @@ lessons/*
 
 # Do not ignore specific files
 !lessons/week0[1-9]/
-!lessons/week10/
+!lessons/week1[0-1]
